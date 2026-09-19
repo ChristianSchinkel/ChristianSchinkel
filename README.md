@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @ChristianSchinkel
-- 👀 I’m interested in AI, medicine and psycology, ...
-- 🌱 I’m currently learning at Karolinska Institutet in Stockholm
-- 💞️ I’m looking to collaborate on what so evver I'm interested in.
-- 👷🏻‍♂️ For job, please contact me on Linkedin: https://www.linkedin.com/in/christian-schinkel-629387232
-- 📫 How to reach me on twitter: @CVSchinkel
+# Christian Schinkel
 
-<!---
-ChristianSchinkel/ChristianSchinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Registered Nurse and MSc Student in Health Informatics, based in Stockholm.
+
+I develop and explore digital health solutions that connect clinical practice with information modelling and software engineering. My interests include Clinical Decision Support, semantic interoperability, HL7 FHIR, openEHR, OMOP CDM, Python, SQL and Swift.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-schinkel)
+[![Personal website](https://img.shields.io/badge/Personal_website-2B547E?style=for-the-badge&logo=website&logoColor=white)](https://christianschinkel.wordpress.com)
+[![Support my work](https://img.shields.io/badge/Support_my_work-0B6623?style=for-the-badge&logo=donate&logoColor=white)](https://ko-fi.com/christianschinkel)
